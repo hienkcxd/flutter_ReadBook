@@ -1,0 +1,15 @@
+com/jideguru/epub_viewer/BuildConfig.java
+ com.jideguru.epub_viewer.BuildConfig
+com/jideguru/epub_viewer/EpubViewerPlugin.java
+ com.jideguru.epub_viewer.EpubViewerPlugin
+com/jideguru/epub_viewer/Reader.java
+ com.jideguru.epub_viewer.Reader
+ com.jideguru.epub_viewer.Reader$1
+ com.jideguru.epub_viewer.Reader$2
+ com.jideguru.epub_viewer.Reader$3
+ com.jideguru.epub_viewer.Reader$3$1
+ com.jideguru.epub_viewer.Reader$3$2
+com/jideguru/epub_viewer/HighlightData.java
+ com.jideguru.epub_viewer.HighlightData
+com/jideguru/epub_viewer/ReaderConfig.java
+ com.jideguru.epub_viewer.ReaderConfig
